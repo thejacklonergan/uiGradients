@@ -1,4 +1,8 @@
-[
+[ {
+    "name":"Radio Wave",
+    "colour1":"#00BEEC,
+    "colour2":"#E50F8D"
+  },
   {
     "name":"Emerald Water",
     "colour1":"#348F50",
